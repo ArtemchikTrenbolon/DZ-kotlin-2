@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+string add
+string app_name
+string clear_all
+string clear_search
+string duplicate_msg
+string empty
+string grid_mode
+string list_mode
+string search_label

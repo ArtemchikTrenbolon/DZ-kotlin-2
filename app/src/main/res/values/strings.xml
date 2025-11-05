@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GalleryCompose</string>
+    <string name="search_label">Поиск по автору</string>
+    <string name="clear_search">Сбросить поиск</string>
+    <string name="grid_mode">Режим сетки</string>
+    <string name="list_mode">Режим списка</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="add">Добавить</string>
+    <string name="empty">Пусто</string>
+    <string name="duplicate_msg">Такое изображение уже существует (id или url).</string>
+</resources>
+
